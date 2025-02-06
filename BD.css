@@ -1,1 +1,68 @@
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.bd{
+    margin: 0px;
+    font-size: 26px;
+    padding-top: 20px;
+    padding-left: 154px;
+    padding-bottom: 20px;
+    font-weight: bold;
+    
+}
+
+.bt{
+    font-size: 14px;
+    padding: 10px 25px 10px 25px;
+    color: rgba(0, 106, 80, 1);
+    border-radius: 5px;
+    border-color: rgba(0, 106, 80, 1) rgba(0, 106, 80, 1) rgba(0, 106, 80, 1) rgba(0, 106, 80, 1);
+    margin-top: 18px;
+    margin-right: 154px;
+    margin-bottom: 18px;
+    margin-left: auto;
+    background-color: white;
+}
+
+.pro{
+    font-size: 20px;
+    color: rgba(14, 14, 14, 0.5);
+    font-weight: bold;
+}
+
+.pera{
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+.btn{
+    font-size: 15px;
+    padding:15px 30px 15px 30px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(25, 140, 111);
+    border: none;
+    margin-bottom: 0px;
+}
+
+.first{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(76, 203, 171, 0.201);
+    border-radius: 10px;
+    width: 1150px;
+    height: 430px;
+    margin-top: 5px;
+    padding-top: 80px;
+    padding-left: 58px;
+    padding-bottom: 20px;
+    margin-left: 140px;
+    margin-bottom: 70px;
+}
